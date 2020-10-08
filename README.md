@@ -2,11 +2,11 @@
 ## Author: github.com/Vickyarts
 ### A simple python program to show live weather.
 
-##Requirements:
+## Requirements:
 - [Python3](https://www.python.org/)
 - [BS4](https://pypi.org/project/bs4/)
 
-##Images:
+## Images:
 ![Chennai](https://imgur.com/a/Is0j3kC)
 
 ![Delhi](https://imgur.com/a/tAT8Df7)
